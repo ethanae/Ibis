@@ -1,3 +1,3 @@
 # Ibis
 
-## A configurable real-time server
+## A real-time sentiment-analysis server
